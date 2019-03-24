@@ -1,1 +1,0 @@
-# VCO-API-Client-for-use-with-Swagger-Codegen---Java
